@@ -8,7 +8,7 @@ I've been practicing and studying a lot of front-end tools like **HTML, CSS, Jav
 
 As I'm still new to development and programming in general, I haven't decided if I prefer to code front-end or back-end related projects yet, and while I'm loving studying Javascript and React, I've got tons of curiosity on C++, C#, and also Ruby.
 
-###Some fun facts about me:
+### Some fun facts about me:
 
 - While I never really learned how to code before the bootcamp, I did create some small macros and bots for personal use on some games, using **AutoHotkey** scripts.
 - I was once a League of Legends professional coach @VivoKeyd, one of Brazil's biggest team at the time.
