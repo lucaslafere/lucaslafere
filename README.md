@@ -16,6 +16,8 @@ As I'm still new to development and programming in general, I haven't decided if
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslafere&count_private=true)
+<img align="left" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslafere" />
+
 
 #### You can also find me on:
 
