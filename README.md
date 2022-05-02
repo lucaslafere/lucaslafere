@@ -15,7 +15,7 @@ As I'm still new to development and programming in general, I haven't decided if
 - I love helping others, so feel free to ask me anything that you think might be useful to you!
 
 
-![Lucas Lafèré's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslafere&count_private=true) 
+![Lucas Lafèré's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslafere&count_private=true&border_radius=15px) 
 <img align="right" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslafere" />
 
 
