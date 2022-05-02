@@ -15,14 +15,9 @@ As I'm still new to development and programming in general, I haven't decided if
 - I love helping others, so feel free to ask me anything that you think might be useful to you!
 
 
-![Lucas Lafèré's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslafere&count_private=true)
+![Lucas Lafèré's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslafere&count_private=true) 
+<img align="right" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslafere" />
 
-<img align="left" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslafere" />
-
-
-#### You can also find me on:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslafere/)](https://www.linkedin.com/in/lucaslafere/)
 
 ### Languages that I'm currently studying or interested in:
 
@@ -36,3 +31,8 @@ As I'm still new to development and programming in general, I haven't decided if
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br>
+
+#### You can also find me on:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslafere/)](https://www.linkedin.com/in/lucaslafere/)
