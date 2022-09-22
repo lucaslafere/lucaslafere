@@ -4,8 +4,6 @@ My name is Lucas Lafèré! I'm currently taking a 9-month bootcamp in software e
 
 I sincerely love coding, it's turned into a big passion, and I truly enjoy spending my time developing apps. I'd never go back to any other careers.
 
-While I do study a lot of JS, Reactjs and Nodejs, I'm beginning to study react-native, and plan on learning flutter too.
-
 I've got tons of curiosity on C++ and C# as well, but they're not my main focus as of now.
 
 ### Some fun facts about me:
