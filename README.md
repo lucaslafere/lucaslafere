@@ -2,7 +2,7 @@
 
 My name is Lucas Lafèré! I'm currently taking a 9-month bootcamp in software engineering, targeted towards becoming a **Fullstack Javascript Developer**.
 
-I sincerely love coding, it's turned into a big passion, and I truly enjoy spending my time developing apps. I'd never go back to any other careers.
+I sincerely love coding, it's turned into a big passion, and I truly enjoy spending my time developing apps. I'd never go back to any other career path.
 
 I've got tons of curiosity on C++ and C# as well, but they're not my main focus as of now.
 
@@ -10,14 +10,14 @@ I've got tons of curiosity on C++ and C# as well, but they're not my main focus 
 
 - While I never really learned how to code before the bootcamp, I did create some small macros and bots for personal use on some games, using **AutoHotkey** scripts.
 - I was once a League of Legends professional coach @VivoKeyd, one of Brazil's biggest team at the time.
-- I love helping others, so feel free to ask me anything. If I know how to help you, I surely will!
+- I love helping others, so feel free to ask me anything. If I know how to help you, I'll be happy to do it!
 
 
 ![Lucas Lafèré's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslafere&count_private=true&border_radius=15px) 
 <img align="right" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslafere" />
 
 
-### Languages that I'm currently studying or interested in:
+### Technologies that I'm currently studying or interested in:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
