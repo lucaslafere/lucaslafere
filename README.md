@@ -4,7 +4,7 @@ Meu nome é Lucas Lafèré! Sou engenheiro de software, formado pelo bootcamp da
 
 Eu me apaixonei pela programação desde as primeiras linhas de código que escrevi na vida, quando desenvolvi alguns scripts simples utilizando AHK e Python, e desde então eu sempre quis me desenvolver cada vez mais nesse caminho como programador, e decidi seguir como web dev.
 
-Apesar disso, tenho MUITA curiosidade e vontade de aprender e trabalhar com linguagens como C++, C# e Java, apesar de não serem o foco dos meus estudos atualmente.
+Apesar disso, tenho MUITA curiosidade e vontade de aprender e trabalhar com linguagens como C++, C# e Java, porém não são o foco dos meus estudos atualmente.
 
 ### Alguns fatos curiosos sobre mim:
 
