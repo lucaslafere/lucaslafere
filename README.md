@@ -1,17 +1,16 @@
-# Hey!
+# Olá!
 
-My name is Lucas Lafèré! I'm currently taking a 9-month bootcamp in software engineering, targeted towards becoming a **Fullstack Javascript Developer**.
+Meu nome é Lucas Lafèré! Sou engenheiro de software, formado pelo bootcamp da Driven Education, onde pude me tornar um **Desenvolvedor Web JavaScript Fullstack**
 
-I sincerely love coding, it's turned into a big passion, and I truly enjoy spending my time developing apps. I'd never go back to any other career path.
+Eu me apaixonei pela programação desde as primeiras linhas de código que escrevi na vida, quando desenvolvi alguns scripts simples utilizando AHK e Python, e desde então eu sempre quis me desenvolver cada vez mais nesse caminho como programador, e decidi seguir como web dev.
 
-I've got tons of curiosity on C++ and C# as well, but they're not my main focus as of now.
+Apesar disso, tenho MUITA curiosidade e vontade de aprender e trabalhar com linguagens como C++, C# e Java, apesar de não serem o foco dos meus estudos atualmente.
 
-### Some fun facts about me:
+### Alguns fatos curiosos sobre mim:
 
-- While I never really learned how to code before the bootcamp, I did create some small macros and bots for personal use on some games, using **AutoHotkey** scripts.
-- I was once a League of Legends professional coach @VivoKeyd, one of Brazil's biggest team at the time.
-- I love helping others, so feel free to ask me anything. If I know how to help you, I'll be happy to do it!
-
+- Apesar de eu nunca ter de fato estudado a fundo programação antes do bootcamp, eu criei alguns macros e bots para uso pessoal nos jogos que eu gostava,, utilizando  scripts **AutoHotKey**.
+- Eu já fui jogador e treinador profissional de League of Legends, sendo o período mais marcante quando fui Head-Coach da line-up feminina da @VivoKeyd, um dos maiores times do Brasil na época, em 2019
+- Eu amo ajudar os outros! Fique a vontade para me perguntar o que quiser, na plataforma que preferir, ficarei muito feliz em ajudar se eu souber como :)
 
 ![Lucas Lafèré's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslafere&count_private=true&border_radius=15px) 
 <img align="right" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslafere" />
@@ -33,3 +32,6 @@ I've got tons of curiosity on C++ and C# as well, but they're not my main focus 
 #### You can also find me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaslafere/)](https://www.linkedin.com/in/lucaslafere/)
+<a href="mailto:laferelucas@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/laferelucas@gmail.com-05122A?style=flat&logo=gmail" alt="instagram"/>
+</a>
