@@ -8,7 +8,7 @@ Apesar disso, tenho MUITA curiosidade e vontade de aprender e trabalhar com ling
 
 ### Alguns fatos curiosos sobre mim:
 
-- Apesar de eu nunca ter de fato estudado a fundo programação antes do bootcamp, eu criei alguns macros e bots para uso pessoal nos jogos que eu gostava,, utilizando  scripts **AutoHotKey**.
+- Apesar de eu nunca ter de fato estudado a fundo programação antes do bootcamp, eu criei alguns macros e bots para uso pessoal nos jogos que eu gostava, utilizando  scripts **AutoHotKey**.
 - Eu já fui jogador e treinador profissional de League of Legends, sendo o período mais marcante quando fui Head-Coach da line-up feminina da @VivoKeyd, um dos maiores times do Brasil na época, em 2019
 - Eu amo ajudar os outros! Fique a vontade para me perguntar o que quiser, na plataforma que preferir, ficarei muito feliz em ajudar se eu souber como :)
 
