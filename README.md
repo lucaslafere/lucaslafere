@@ -12,9 +12,6 @@ Apesar disso, tenho MUITA curiosidade e vontade de aprender e trabalhar com ling
 - Eu já fui jogador e treinador profissional de League of Legends, sendo o período mais marcante quando fui Head-Coach da line-up feminina da @VivoKeyd, um dos maiores times do Brasil na época, em 2019
 - Eu amo ajudar os outros! Fique a vontade para me perguntar o que quiser, na plataforma que preferir, ficarei muito feliz em ajudar se eu souber como :)
 
-![Lucas Lafèré's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaslafere&count_private=true&border_radius=15px) 
-<img align="right" alt="Lucas' GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslafere" />
-
 # Tech Stack 🖥
 
 ### Front-end:
